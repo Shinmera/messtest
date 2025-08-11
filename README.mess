@@ -1,5 +1,5 @@
 # HELLO!
-This is an example of how to use cl-markless to author a simple website directly on Github. Wow! The resulting page can be seen at https://shinmera.github.io/messtest and the source file at https://github.com/Shinmera/messtest/blob/main/README.mess
+This is an example of how to use cl-markless to author a simple website directly on Github. Wow! The resulting page can be seen at https://shinmera.com/docs/messtest and the source file at https://shinmera.com/project/messtest/blob/main/README.mess
 
 All it takes is configuring the repository to use Github Actions for its pages deployment and the following ``.github/workflows/publish.yml`` file:
 
